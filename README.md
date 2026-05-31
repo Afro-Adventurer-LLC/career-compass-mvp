@@ -281,6 +281,30 @@ Future expansion:
 
 ---
 
+💰 Business Model
+
+Career Compass is designed as a scalable venture-ready workforce intelligence platform.
+
+B2C
+
+Premium subscriptions for:
+
+Advanced opportunity intelligence
+Interview coaching
+Career planning
+Referral assistance
+AI-powered application optimization
+
+B2B
+
+Recruiters and employers gain access to:
+
+Pre-qualified talent pipelines
+Candidate intelligence
+Trust and legitimacy scoring
+Referral infrastructure
+Workforce mobility analytics
+
 <div align="center">
 
 **Built with ❤️ for global talent · by [Afro Adventurer](https://afroadventurers.com) · Build54 Nairobi 2026**
